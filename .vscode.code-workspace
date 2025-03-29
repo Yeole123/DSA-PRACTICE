@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".vscode"
+		},
+		{
+			"name": "DSA-PRACTICE",
+			"path": "../../dsa_practice/DSA-PRACTICE"
+		}
+	],
+	"settings": {}
+}
